@@ -1,0 +1,35 @@
+_repo: Antiquities-of-the-Mesa-Verde-National-Park-b-Spruce-tree-House_70366
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fewkes, Jesse Walter
+    alias: Fewkes, J. Walter (Jesse Walter)
+    birthdate: 1850
+    deathdate: 1930
+    gutenberg_agent_id: '7741'
+    url: http://www.gutenberg.org/2009/agents/7741
+    wikipedia: https://en.wikipedia.org/wiki/Jesse_Walter_Fewkes
+description: ''
+gutenberg_issued: '2023-03-24'
+identifiers:
+  gutenberg: '70366'
+language: en
+pgterms:marc905: 20221108172226fewkes
+pgterms:marc906: '1909'
+pgterms:marc907: US
+production_note: John Campbell and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bSmithsonian Institution, $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Smithsonian Institution. Bureau of American Ethnology, Bulletin 41.
+subjects:
+- !lcsh 'Government publications'
+- !lcsh 'Mesa Verde National Park (Colo.) -- Antiquities'
+- !lcsh 'Indians of North America -- Colorado -- Antiquities'
+- !lcsh 'Cliff-dwellers -- Colorado -- Mesa Verde National Park'
+- !lcc 'E011'
+- GITenberg
+title: 'Antiquities of the Mesa Verde National Park : $b Spruce-tree House'
+url: http://www.gutenberg.org/ebooks/70366
